@@ -147,9 +147,14 @@ Here we go👇
 
 ## Experimental Commands:
 
-- [List of commands...]
+These commands are experimental and may not be fully supported or stable. Use them with caution.
 
----
+- `git experimental-feature`: Description of the experimental feature.
+- `git new-command`: Description of the new experimental command.
+- `git dev-tool`: Description of the experimental development tool.
+
+Remember to consult the official Git documentation or release notes for more information on experimental features and commands
+
 
 ### Some good resources to Learn Git faster ☺️
 

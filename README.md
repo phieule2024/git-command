@@ -9,7 +9,7 @@ Here we go👇
 
 - `git clone`: Clone a repository from a URL into a new directory.
   Example: `git clone https://github.com/user/repo.git`
-
+  Clone with access_token `git clone https://[user_name]:[access_token]@github.com/[user_name]/[project_name].git`
 - `git add`: Add changes in the current directory to the staging area.
   Example: `git add .`
 
